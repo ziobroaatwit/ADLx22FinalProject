@@ -1,5 +1,8 @@
 # ADLx22FinalProject - PUBG Placement Model
-I cannot upload the dataset to github, but they are inside of the notebook on Kaggle: https://www.kaggle.com/code/aleksanderziobro/pubgplacementmodelforproject
+## Members
+Aleksander Ziobro, Alex Wang
+## Note
+We cannot upload the dataset to github, but they are inside of the notebook on Kaggle: https://www.kaggle.com/code/aleksanderziobro/pubgplacementmodelforproject
 ## Introduction
 The objective of this project was originally to demonstrate using a deep learning model on a dataset of statistics dumped from an API for the once popular battle royale game PlayerUnknown's Battlegrounds. However we hit roadblocks on the way and this quickly became a research project on how deep learning neural networks are not always the answer to your data set, and that sometimes going back to the basics with regression is the better choice. In our case, it would be gradient boosting regressors that do best, while our neural network performed poorly. 
 ## Selection of Data
