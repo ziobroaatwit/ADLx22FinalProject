@@ -28,7 +28,12 @@ If we had more time to tackle this we would take more steps in the data preproce
 Could our dense network have done even better than it did? Likely, but it probably would have required a significantly larger amount of data manipulation than would be required to get good scores using these gradient boosted decision trees. In the interest of time required for training and the amount of setup to get decent results, if your data is heterogenous and tabular, look towards gradient boosting decision tree models first, you may be surprised by their capabilities. 
 ## References
 [PUBG Finish Placement Prediction (Kernels Only)] https://www.kaggle.com/competitions/pubg-finish-placement-prediction/
+
 [When and Why Tree-Based Models (Often) Outperform Neural Networks
 ] https://towardsdatascience.com/when-and-why-tree-based-models-often-outperform-neural-networks-ceba9ecd0fd8
+
+
 [Boost then Convolve: Gradient Boosting Meets Graph Neural Networks] https://deepai.org/publication/boost-then-convolve-gradient-boosting-meets-graph-neural-networks#:~:text=Graph%20neural%20networks%20%28GNNs%29%20are%20powerful%20models%20that,learning%20methods%20when%20faced%20with%20heterogeneous%20tabular%20data.
+
+
 [XGBoost] https://www.geeksforgeeks.org/xgboost/
